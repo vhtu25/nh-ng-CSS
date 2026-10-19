@@ -1,0 +1,24 @@
+/* Thiết lập chung cho trang */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+/* Phần 3: Định kiểu cho External Style */
+.external-text {
+    color: #27ae60; /* Màu xanh lá */
+    font-size: 18px;
+    font-weight: bold;
+}
